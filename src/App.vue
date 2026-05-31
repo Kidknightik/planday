@@ -1,30 +1,34 @@
 <template>
   <div>
     <!-- Шапка -->
-    <header class="app-header text-center">
-      <h1 class="fw-bold">Планировщик задач</h1>
-      <p class="mb-0 opacity-75">Организуй свой день эффективно</p>
+    <header class="app-header">
+      <div class="container d-flex align-items-center justify-content-between">
+        <div>
+          <h1>Планировщик задач</h1>
+          <p>Организуй свой день эффективно</p>
+        </div>
+      </div>
     </header>
 
     <div class="container">
       <!-- Статистика -->
       <div class="row mb-4">
         <div class="col-12 col-md-4 mb-3 mb-md-0">
-          <div class="stats-block text-center">
-            <div class="fs-2 fw-bold text-primary">{{ totalTasks }}</div>
-            <div class="text-muted small">Всего задач</div>
+          <div class="stats-block">
+            <div class="stat-number text-primary">{{ totalTasks }}</div>
+            <div class="text-muted small mt-1">Всего задач</div>
           </div>
         </div>
         <div class="col-12 col-md-4 mb-3 mb-md-0">
-          <div class="stats-block text-center">
-            <div class="fs-2 fw-bold text-success">{{ doneTasks }}</div>
-            <div class="text-muted small">Выполнено</div>
+          <div class="stats-block">
+            <div class="stat-number text-success">{{ doneTasks }}</div>
+            <div class="text-muted small mt-1">Выполнено</div>
           </div>
         </div>
         <div class="col-12 col-md-4">
-          <div class="stats-block text-center">
-            <div class="fs-2 fw-bold text-warning">{{ pendingTasks }}</div>
-            <div class="text-muted small">В работе</div>
+          <div class="stats-block">
+            <div class="stat-number text-warning">{{ pendingTasks }}</div>
+            <div class="text-muted small mt-1">В работе</div>
           </div>
         </div>
       </div>
