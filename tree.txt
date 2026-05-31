@@ -1,0 +1,133 @@
+Folder PATH listing for volume data
+Volume serial number is 000000D8 D660:4A36
+D:.
++---node_modules
+¦   +---.bin
+¦   +---.vite
+¦   ¦   +---deps
+¦   +---@babel
+¦   ¦   +---helper-string-parser
+¦   ¦   ¦   +---lib
+¦   ¦   +---helper-validator-identifier
+¦   ¦   ¦   +---lib
+¦   ¦   +---parser
+¦   ¦   ¦   +---bin
+¦   ¦   ¦   +---lib
+¦   ¦   ¦   +---typings
+¦   ¦   +---types
+¦   ¦       +---lib
+¦   ¦           +---asserts
+¦   ¦           ¦   +---generated
+¦   ¦           +---ast-types
+¦   ¦           ¦   +---generated
+¦   ¦           +---builders
+¦   ¦           ¦   +---flow
+¦   ¦           ¦   +---generated
+¦   ¦           ¦   +---react
+¦   ¦           ¦   +---typescript
+¦   ¦           +---clone
+¦   ¦           +---comments
+¦   ¦           +---constants
+¦   ¦           ¦   +---generated
+¦   ¦           +---converters
+¦   ¦           +---definitions
+¦   ¦           +---modifications
+¦   ¦           ¦   +---flow
+¦   ¦           ¦   +---typescript
+¦   ¦           +---retrievers
+¦   ¦           +---traverse
+¦   ¦           +---utils
+¦   ¦           ¦   +---react
+¦   ¦           +---validators
+¦   ¦               +---generated
+¦   ¦               +---react
+¦   +---@esbuild
+¦   ¦   +---win32-x64
+¦   +---@jridgewell
+¦   ¦   +---sourcemap-codec
+¦   ¦       +---dist
+¦   ¦       +---src
+¦   ¦       +---types
+¦   +---@rollup
+¦   ¦   +---rollup-win32-x64-gnu
+¦   ¦   +---rollup-win32-x64-msvc
+¦   +---@types
+¦   ¦   +---estree
+¦   +---@vitejs
+¦   ¦   +---plugin-vue
+¦   ¦       +---dist
+¦   +---@vue
+¦   ¦   +---compiler-core
+¦   ¦   ¦   +---dist
+¦   ¦   +---compiler-dom
+¦   ¦   ¦   +---dist
+¦   ¦   +---compiler-sfc
+¦   ¦   ¦   +---dist
+¦   ¦   +---compiler-ssr
+¦   ¦   ¦   +---dist
+¦   ¦   +---reactivity
+¦   ¦   ¦   +---dist
+¦   ¦   +---runtime-core
+¦   ¦   ¦   +---dist
+¦   ¦   +---runtime-dom
+¦   ¦   ¦   +---dist
+¦   ¦   +---server-renderer
+¦   ¦   ¦   +---dist
+¦   ¦   +---shared
+¦   ¦       +---dist
+¦   +---csstype
+¦   +---entities
+¦   ¦   +---dist
+¦   ¦   ¦   +---commonjs
+¦   ¦   ¦   ¦   +---generated
+¦   ¦   ¦   ¦   +---internal
+¦   ¦   ¦   +---esm
+¦   ¦   ¦       +---generated
+¦   ¦   ¦       +---internal
+¦   ¦   +---src
+¦   ¦       +---generated
+¦   ¦       +---internal
+¦   +---esbuild
+¦   ¦   +---bin
+¦   ¦   +---lib
+¦   +---estree-walker
+¦   ¦   +---dist
+¦   ¦   ¦   +---esm
+¦   ¦   ¦   +---umd
+¦   ¦   +---src
+¦   ¦   +---types
+¦   +---magic-string
+¦   ¦   +---dist
+¦   +---nanoid
+¦   ¦   +---.claude
+¦   ¦   +---async
+¦   ¦   +---bin
+¦   ¦   +---non-secure
+¦   ¦   +---url-alphabet
+¦   +---picocolors
+¦   +---postcss
+¦   ¦   +---lib
+¦   +---rollup
+¦   ¦   +---dist
+¦   ¦       +---bin
+¦   ¦       +---es
+¦   ¦       ¦   +---shared
+¦   ¦       +---shared
+¦   +---source-map-js
+¦   ¦   +---lib
+¦   +---vite
+¦   ¦   +---bin
+¦   ¦   +---dist
+¦   ¦   ¦   +---client
+¦   ¦   ¦   +---node
+¦   ¦   ¦   ¦   +---chunks
+¦   ¦   ¦   +---node-cjs
+¦   ¦   +---types
+¦   +---vue
+¦       +---compiler-sfc
+¦       +---dist
+¦       +---jsx-runtime
+¦       +---server-renderer
++---src
+    +---assets
+    +---components
